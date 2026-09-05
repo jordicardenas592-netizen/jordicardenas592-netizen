@@ -1,5 +1,5 @@
  <h1 align="center">
-  Hola, soy Jordi Cárdenas Mendoza 👋
+  Hola, soy Jordi Cardenas Mendoza 👋
 </h1>
 
 <h2 align="center">
